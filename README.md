@@ -8,25 +8,14 @@ Strengthen ML fundamentals
 Practice Python libraries (NumPy, Pandas, Scikit-learn, Matplotlib)
 Build real-world projects
 
-
-
-Machine-Learning/
-│
-├── Linear Regression/
-├── Logistic Regression/
-├── Classification Projects/
-├── Clustering (K-Means)/
-├── Data Preprocessing/
-├── Streamlit Apps/
-├── Datasets/
-└── README.md
-
-
 Basics
 
 What is Machine Learning
+
 Types of ML (Supervised, Unsupervised, Reinforcement)
+
 Data Preprocessing
+
 Train-Test Split
 
 
