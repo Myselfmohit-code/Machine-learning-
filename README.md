@@ -9,7 +9,7 @@ Practice Python libraries (NumPy, Pandas, Scikit-learn, Matplotlib)
 Build real-world projects
 
 #Basics
-
+ 
 What is Machine Learning
 
 Types of ML (Supervised, Unsupervised, Reinforcement)
