@@ -7,7 +7,7 @@ I created this repo to:
 Strengthen ML fundamentals
 Practice Python libraries (NumPy, Pandas, Scikit-learn, Matplotlib)
 Build real-world projects
-
+ 
 #Basics
  
 What is Machine Learning
